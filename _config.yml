@@ -1,0 +1,8 @@
+title: ZenProject's Pages
+description: "ZenProject's Pages"
+google_analytics: UA-3441258-7
+show_downloads: true
+theme: jekyll-theme-cayman
+keywords: Apache, module, authentication, authorization, sso, memcached, simplesaml, opensso
+plugins:
+  - jekyll-sitemap
