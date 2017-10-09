@@ -1,7 +1,7 @@
 title: ZenProject's Pages
 description: "ZenProject's Pages"
 google_analytics: UA-3441258-7
-site.repository_url: https://github.com/ZenProjects
+repository_url: https://github.com/ZenProjects
 show_downloads: true
 theme: jekyll-theme-cayman
 keywords: Apache, module, authentication, authorization, sso, memcached, simplesaml, opensso, ocrajs, zabbix, php, zabbix loadable module, apache status text, chroot
